@@ -1,2 +1,2 @@
-# Plotly
-FRM's Module 12 Repository
+# Plotly and Belly Button Biodiversity
+Florencio's repository for Plotly activities and Challenge 12
